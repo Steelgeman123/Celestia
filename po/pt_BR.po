@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: team@celestia.space\n"
 "POT-Creation-Date: 2019-02-14 21:37+0300\n"
 "PO-Revision-Date: 2018-05-28 20:52+0300\n"
-"Last-Translator: Alexell <alexell@alexell.ru>\n"
+"Last-Translator: Eduardo <dudu180603@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr "Mercúrio"
 
 #: ../data/data.cpp:2
 msgid "Venus"
-msgstr "Vénus"
+msgstr "Vênus"
 
 #: ../data/data.cpp:3 ../src/celestia/qt/qteventfinder.cpp:598
 #: ../src/celestia/win32/wineclipses.cpp:319
@@ -66,7 +66,7 @@ msgstr "Europa"
 
 #: ../data/data.cpp:12
 msgid "Ganymede"
-msgstr "Ganimedes"
+msgstr "Ganímedes"
 
 #: ../data/data.cpp:13
 msgid "Callisto"
@@ -132,7 +132,7 @@ msgstr "Febe"
 #: ../data/data.cpp:28 ../src/celestia/qt/qteventfinder.cpp:601
 #: ../src/celestia/win32/wineclipses.cpp:322
 msgid "Uranus"
-msgstr "Úrano"
+msgstr "Urano"
 
 #: ../data/data.cpp:29
 msgid "Miranda"
@@ -157,7 +157,7 @@ msgstr "Oberon"
 #: ../data/data.cpp:34 ../src/celestia/qt/qteventfinder.cpp:602
 #: ../src/celestia/win32/wineclipses.cpp:323
 msgid "Neptune"
-msgstr "Neptuno"
+msgstr "Netuno"
 
 #: ../data/data.cpp:35
 msgid "Larissa"
@@ -5032,7 +5032,7 @@ msgstr "Ir para Objecto"
 
 #: ../src/celestia/win32/res/resource_strings.cpp:138
 msgid "Object"
-msgstr "Objecto"
+msgstr "Objeto"
 
 #: ../src/celestia/win32/res/resource_strings.cpp:139
 msgid "Long."
@@ -5351,7 +5351,7 @@ msgstr "Corpos em órbita"
 
 #: ../src/celestia/win32/winmain.cpp:3194
 msgid "Loading: "
-msgstr "A carregar: "
+msgstr "Carregando: "
 
 #: ../src/celestia/win32/winmain.cpp:3364 ../src/celutil/util.cpp:69
 #: ../src/celutil/util.cpp:73
@@ -5360,7 +5360,7 @@ msgstr "pt"
 
 #: ../src/celestia/win32/winmain.cpp:3994
 msgid "Loading URL"
-msgstr "A carregar o URL"
+msgstr "Carregando o URL"
 
 #: ../src/celestia/win32/winmain.cpp:4006
 msgid "Error opening script"
@@ -5372,7 +5372,7 @@ msgstr "Erro ao carregar o script"
 
 #: ../src/celestia/win32/winmain.cpp:4030
 msgid "Running script"
-msgstr "A executar o script"
+msgstr "Executando o script"
 
 #: ../src/celestia/win32/wintime.cpp:97
 msgid "Time Zone Name"
